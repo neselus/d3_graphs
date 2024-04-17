@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/neselus/d3_graphs/static/css/main.1e8453c1.css",
+    "main.js": "/neselus/d3_graphs/static/js/main.b5f26dbb.js",
+    "static/js/453.64105b0e.chunk.js": "/neselus/d3_graphs/static/js/453.64105b0e.chunk.js",
+    "static/media/tips.csv": "/neselus/d3_graphs/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/neselus/d3_graphs/index.html",
+    "main.1e8453c1.css.map": "/neselus/d3_graphs/static/css/main.1e8453c1.css.map",
+    "main.b5f26dbb.js.map": "/neselus/d3_graphs/static/js/main.b5f26dbb.js.map",
+    "453.64105b0e.chunk.js.map": "/neselus/d3_graphs/static/js/453.64105b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8453c1.css",
+    "static/js/main.b5f26dbb.js"
+  ]
+}
